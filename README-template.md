@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/images/Screenshot-solution.jpg](/images/Screenshot-solution.jpg)
+![Solution for the Four card feature section coding challenge](./design/Screenshot-solution.jpg)
 
 ### Links
 
